@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "851814883885",
-    "project_id": "mechassist-firebase",
-    "storage_bucket": "mechassist-firebase.appspot.com"
+    "project_number": "417120516329",
+    "project_id": "github-mechassist",
+    "storage_bucket": "github-mechassist.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:851814883885:android:f320af9e340c9cacf0cea4",
+        "mobilesdk_app_id": "1:417120516329:android:83ba62a3d2774bc3649878",
         "android_client_info": {
-          "package_name": "com.deepikha.mech_assist"
+          "package_name": "com.DeepikhaThanu.deepikha.mech_assist"
         }
       },
       "oauth_client": [
         {
-          "client_id": "851814883885-777e2j27oo0anmnam3u6tblnf6jii9d4.apps.googleusercontent.com",
+          "client_id": "417120516329-j9nii408ll0bsbdok9rubicllkb7u482.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC7EGo5HLb7t6I5xy887eVe9N67ThxHBdI"
+          "current_key": "AIzaSyCbTn0JouFoSJsgeVC34pAXvycAEL6rr5s"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "851814883885-777e2j27oo0anmnam3u6tblnf6jii9d4.apps.googleusercontent.com",
+              "client_id": "417120516329-j9nii408ll0bsbdok9rubicllkb7u482.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
